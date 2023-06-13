@@ -1,1 +1,1 @@
-# Alien_Invasion
+As I mentioned in my Zero-to-Hero Repository README, this repository will contain all of the modules that encompass the Space Invader game replica project covered in Python Crash Course: 2nd Edition Chapters 12 to 14.
